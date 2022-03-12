@@ -1,0 +1,8 @@
+C:\Csharp\VP01\002_Arithmetic\bin\Debug\002_Arithmetic.exe.config
+C:\Csharp\VP01\002_Arithmetic\bin\Debug\002_Arithmetic.exe
+C:\Csharp\VP01\002_Arithmetic\bin\Debug\002_Arithmetic.pdb
+C:\Csharp\VP01\002_Arithmetic\obj\Debug\002_Arithmetic.csproj.AssemblyReference.cache
+C:\Csharp\VP01\002_Arithmetic\obj\Debug\002_Arithmetic.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\002_Arithmetic\obj\Debug\002_Arithmetic.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\002_Arithmetic\obj\Debug\002_Arithmetic.exe
+C:\Csharp\VP01\002_Arithmetic\obj\Debug\002_Arithmetic.pdb

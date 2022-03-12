@@ -1,0 +1,8 @@
+C:\Csharp\VP01\006_Power\bin\Debug\006_Power.exe.config
+C:\Csharp\VP01\006_Power\bin\Debug\006_Power.exe
+C:\Csharp\VP01\006_Power\bin\Debug\006_Power.pdb
+C:\Csharp\VP01\006_Power\obj\Debug\006_Power.csproj.AssemblyReference.cache
+C:\Csharp\VP01\006_Power\obj\Debug\006_Power.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\006_Power\obj\Debug\006_Power.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\006_Power\obj\Debug\006_Power.exe
+C:\Csharp\VP01\006_Power\obj\Debug\006_Power.pdb

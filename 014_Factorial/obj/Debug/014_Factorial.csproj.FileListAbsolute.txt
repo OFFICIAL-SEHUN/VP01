@@ -1,0 +1,8 @@
+C:\Csharp\VP01\014_Factorial\bin\Debug\014_Factorial.exe.config
+C:\Csharp\VP01\014_Factorial\bin\Debug\014_Factorial.exe
+C:\Csharp\VP01\014_Factorial\bin\Debug\014_Factorial.pdb
+C:\Csharp\VP01\014_Factorial\obj\Debug\014_Factorial.csproj.AssemblyReference.cache
+C:\Csharp\VP01\014_Factorial\obj\Debug\014_Factorial.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\014_Factorial\obj\Debug\014_Factorial.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\014_Factorial\obj\Debug\014_Factorial.exe
+C:\Csharp\VP01\014_Factorial\obj\Debug\014_Factorial.pdb

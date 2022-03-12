@@ -1,0 +1,8 @@
+C:\Csharp\VP01\010_Array\bin\Debug\010_Array.exe.config
+C:\Csharp\VP01\010_Array\bin\Debug\010_Array.exe
+C:\Csharp\VP01\010_Array\bin\Debug\010_Array.pdb
+C:\Csharp\VP01\010_Array\obj\Debug\010_Array.csproj.AssemblyReference.cache
+C:\Csharp\VP01\010_Array\obj\Debug\010_Array.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\010_Array\obj\Debug\010_Array.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\010_Array\obj\Debug\010_Array.exe
+C:\Csharp\VP01\010_Array\obj\Debug\010_Array.pdb

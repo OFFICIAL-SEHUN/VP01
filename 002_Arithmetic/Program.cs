@@ -10,6 +10,8 @@ namespace _002_Arithmetic
     {
         static void Main(string[] args)
         {
+            
+
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Csharp\VP01\008_Prime\bin\Debug\008_Prime.exe.config
+C:\Csharp\VP01\008_Prime\bin\Debug\008_Prime.exe
+C:\Csharp\VP01\008_Prime\bin\Debug\008_Prime.pdb
+C:\Csharp\VP01\008_Prime\obj\Debug\008_Prime.csproj.AssemblyReference.cache
+C:\Csharp\VP01\008_Prime\obj\Debug\008_Prime.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\008_Prime\obj\Debug\008_Prime.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\008_Prime\obj\Debug\008_Prime.exe
+C:\Csharp\VP01\008_Prime\obj\Debug\008_Prime.pdb

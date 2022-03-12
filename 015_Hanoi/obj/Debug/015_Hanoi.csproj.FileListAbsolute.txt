@@ -1,0 +1,8 @@
+C:\Csharp\VP01\015_Hanoi\bin\Debug\015_Hanoi.exe.config
+C:\Csharp\VP01\015_Hanoi\bin\Debug\015_Hanoi.exe
+C:\Csharp\VP01\015_Hanoi\bin\Debug\015_Hanoi.pdb
+C:\Csharp\VP01\015_Hanoi\obj\Debug\015_Hanoi.csproj.AssemblyReference.cache
+C:\Csharp\VP01\015_Hanoi\obj\Debug\015_Hanoi.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\015_Hanoi\obj\Debug\015_Hanoi.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\015_Hanoi\obj\Debug\015_Hanoi.exe
+C:\Csharp\VP01\015_Hanoi\obj\Debug\015_Hanoi.pdb

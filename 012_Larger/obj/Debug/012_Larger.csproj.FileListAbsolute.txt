@@ -1,0 +1,8 @@
+C:\Csharp\VP01\012_Larger\bin\Debug\012_Larger.exe.config
+C:\Csharp\VP01\012_Larger\bin\Debug\012_Larger.exe
+C:\Csharp\VP01\012_Larger\bin\Debug\012_Larger.pdb
+C:\Csharp\VP01\012_Larger\obj\Debug\012_Larger.csproj.AssemblyReference.cache
+C:\Csharp\VP01\012_Larger\obj\Debug\012_Larger.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\012_Larger\obj\Debug\012_Larger.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\012_Larger\obj\Debug\012_Larger.exe
+C:\Csharp\VP01\012_Larger\obj\Debug\012_Larger.pdb

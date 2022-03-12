@@ -1,0 +1,8 @@
+C:\Csharp\VP01\011_Sorting\bin\Debug\011_Sorting.exe.config
+C:\Csharp\VP01\011_Sorting\bin\Debug\011_Sorting.exe
+C:\Csharp\VP01\011_Sorting\bin\Debug\011_Sorting.pdb
+C:\Csharp\VP01\011_Sorting\obj\Debug\011_Sorting.csproj.AssemblyReference.cache
+C:\Csharp\VP01\011_Sorting\obj\Debug\011_Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\011_Sorting\obj\Debug\011_Sorting.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\011_Sorting\obj\Debug\011_Sorting.exe
+C:\Csharp\VP01\011_Sorting\obj\Debug\011_Sorting.pdb

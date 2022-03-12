@@ -1,0 +1,8 @@
+C:\Csharp\VP01\003_Relational\bin\Debug\003_Relational.exe.config
+C:\Csharp\VP01\003_Relational\bin\Debug\003_Relational.exe
+C:\Csharp\VP01\003_Relational\bin\Debug\003_Relational.pdb
+C:\Csharp\VP01\003_Relational\obj\Debug\003_Relational.csproj.AssemblyReference.cache
+C:\Csharp\VP01\003_Relational\obj\Debug\003_Relational.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\003_Relational\obj\Debug\003_Relational.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\003_Relational\obj\Debug\003_Relational.exe
+C:\Csharp\VP01\003_Relational\obj\Debug\003_Relational.pdb

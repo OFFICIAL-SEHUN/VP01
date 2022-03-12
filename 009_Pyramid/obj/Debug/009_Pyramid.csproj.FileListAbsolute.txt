@@ -1,0 +1,8 @@
+C:\Csharp\VP01\009_Pyramid\bin\Debug\009_Pyramid.exe.config
+C:\Csharp\VP01\009_Pyramid\bin\Debug\009_Pyramid.exe
+C:\Csharp\VP01\009_Pyramid\bin\Debug\009_Pyramid.pdb
+C:\Csharp\VP01\009_Pyramid\obj\Debug\009_Pyramid.csproj.AssemblyReference.cache
+C:\Csharp\VP01\009_Pyramid\obj\Debug\009_Pyramid.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\009_Pyramid\obj\Debug\009_Pyramid.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\009_Pyramid\obj\Debug\009_Pyramid.exe
+C:\Csharp\VP01\009_Pyramid\obj\Debug\009_Pyramid.pdb
