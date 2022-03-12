@@ -9,7 +9,7 @@ namespace _011_Sorting
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   
         }
     }
 }

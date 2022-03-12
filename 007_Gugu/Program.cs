@@ -10,6 +10,14 @@ namespace _007_Gugu
     {
         static void Main(string[] args)
         {
+            for (int x = 1; x <= 9; x++)
+            {
+                for(int y = 2; y <= 9; y++)
+                {
+                    Console.Write("{0}*{1}={2}\t", y, x, x * y);
+                }
+                Console.WriteLine();
+            }
         }
     }
 }
