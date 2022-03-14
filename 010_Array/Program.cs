@@ -15,7 +15,7 @@ namespace _010_Array
             Console.Write("a[] :");
             for (int i = 0; i < 10; i++) //랜덤값 배열에 저장
             {
-                a[i] = r.Next();
+                a[i] = r.Next(0,32767);
                 Console.Write(" {0}",a[i]);
             }
             Console.WriteLine();
