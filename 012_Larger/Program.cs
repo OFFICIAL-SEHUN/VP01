@@ -15,14 +15,16 @@ namespace _012_Larger
                 int bigger;
                 return bigger = (a > b) ? a : b;
             }
-            Console.Write("3개중 첫번째 정수를 입력하세요 : ");
-            int num1 = int.Parse(Console.ReadLine());
-            Console.Write("3개중 두번째 정수를 입력하세요 : ");
-            int num2 = int.Parse(Console.ReadLine());
-            Console.Write("3개중 세번째 정수를 입력하세요 : ");
-            int num3 = int.Parse(Console.ReadLine());
+            string[] token;
+            Console.Write("정수 세개를 입력하세요 : ");
+            string numbers = Console.ReadLine();
+            token = numbers.Split(' ');
+            int num1 = int.Parse(token[0]);
+            int num2 = int.Parse(token[1]);
+            int num3 = int.Parse(token[2]);
 
-            Console.WriteLine(Larger(Larger(num1, num2), num3));
+
+            Console.WriteLine(Larger(Larger(num1,num2),num3));
         }
     }
 }
