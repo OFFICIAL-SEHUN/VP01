@@ -16,14 +16,14 @@ namespace _012_Larger
                 return bigger = (a > b) ? a : b;
             }
             string[] token;
-            Console.Write("정수 세개를 입력하세요 : ");
+            Console.Write("정수 세 개를 입력하세요 : ");
             string numbers = Console.ReadLine();
             token = numbers.Split(' ');
             int num1 = int.Parse(token[0]);
             int num2 = int.Parse(token[1]);
             int num3 = int.Parse(token[2]);
 
-
+            Console.Write("가장 큰 수는 : ");
             Console.WriteLine(Larger(Larger(num1,num2),num3));
         }
     }
