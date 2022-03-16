@@ -1,0 +1,15 @@
+C:\Csharp\pyramidmethod\bin\Debug\net6.0\pyramidmethod.exe
+C:\Csharp\pyramidmethod\bin\Debug\net6.0\pyramidmethod.deps.json
+C:\Csharp\pyramidmethod\bin\Debug\net6.0\pyramidmethod.runtimeconfig.json
+C:\Csharp\pyramidmethod\bin\Debug\net6.0\pyramidmethod.dll
+C:\Csharp\pyramidmethod\bin\Debug\net6.0\pyramidmethod.pdb
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.csproj.AssemblyReference.cache
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.AssemblyInfoInputs.cache
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.AssemblyInfo.cs
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.csproj.CoreCompileInputs.cache
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.dll
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\refint\pyramidmethod.dll
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.pdb
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\pyramidmethod.genruntimeconfig.cache
+C:\Csharp\pyramidmethod\obj\Debug\net6.0\ref\pyramidmethod.dll
