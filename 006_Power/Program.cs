@@ -11,10 +11,12 @@ namespace _006_Power
         static void Main(string[] args)
         {
             int result = 1;
-            Console.Write("밑을 입력하세요 : ");
-            int under = int.Parse(Console.ReadLine());
-            Console.Write("지수를 입력하세요 : ");
-            int exponent= int.Parse(Console.ReadLine());
+            string[] token;
+            Console.Write("밑과 지수를 입력하세요 : ");
+            string power = Console.ReadLine();
+            token = power.Split(' ');
+            int under = int.Parse(token[0]);
+            int exponent = int.Parse(token[1]);
 
             for (int i = 1; i <= exponent; i++)
             {

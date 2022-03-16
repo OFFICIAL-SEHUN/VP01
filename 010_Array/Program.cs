@@ -15,11 +15,11 @@ namespace _010_Array
             Console.Write("a[] :");
             for (int i = 0; i < 10; i++) //랜덤값 배열에 저장
             {
-                a[i] = r.Next();
+                a[i] = r.Next(0,32768); // 0 ~ 32767 까지 출력해야함
                 Console.Write(" {0}",a[i]);
             }
             Console.WriteLine();
-            double sum = 0; //double 인 이유 : 오버플로우 때문에 음수 출력됨
+            int sum = 0; 
             for(int i = 0; i < a.Length; i++) sum += a[i]; //average
             double average = sum / a.Length;
 
