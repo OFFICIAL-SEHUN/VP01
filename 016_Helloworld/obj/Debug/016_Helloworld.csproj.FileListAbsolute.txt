@@ -1,0 +1,11 @@
+C:\Csharp\016_Helloworld\bin\Debug\016_Helloworld.exe.config
+C:\Csharp\016_Helloworld\bin\Debug\016_Helloworld.exe
+C:\Csharp\016_Helloworld\bin\Debug\016_Helloworld.pdb
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.csproj.AssemblyReference.cache
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\016_Helloworld\obj\Debug\_016_Helloworld.Form1.resources
+C:\Csharp\016_Helloworld\obj\Debug\_016_Helloworld.Properties.Resources.resources
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.csproj.GenerateResource.cache
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.csproj.CoreCompileInputs.cache
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.exe
+C:\Csharp\016_Helloworld\obj\Debug\016_Helloworld.pdb
