@@ -1,0 +1,12 @@
+C:\Csharp\011_forms\bin\Debug\011_forms.exe.config
+C:\Csharp\011_forms\bin\Debug\011_forms.exe
+C:\Csharp\011_forms\bin\Debug\011_forms.pdb
+C:\Csharp\011_forms\obj\Debug\017_forms.csproj.AssemblyReference.cache
+C:\Csharp\011_forms\obj\Debug\017_forms.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\011_forms\obj\Debug\_011_forms.Form1.resources
+C:\Csharp\011_forms\obj\Debug\_011_forms.Properties.Resources.resources
+C:\Csharp\011_forms\obj\Debug\017_forms.csproj.GenerateResource.cache
+C:\Csharp\011_forms\obj\Debug\017_forms.csproj.CoreCompileInputs.cache
+C:\Csharp\011_forms\obj\Debug\011_forms.exe
+C:\Csharp\011_forms\obj\Debug\011_forms.pdb
+C:\Csharp\011_forms\obj\Debug\_011_forms.Form2.resources

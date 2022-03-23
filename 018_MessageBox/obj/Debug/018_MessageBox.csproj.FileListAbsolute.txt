@@ -1,0 +1,11 @@
+C:\Csharp\018_MessageBox\bin\Debug\018_MessageBox.exe.config
+C:\Csharp\018_MessageBox\bin\Debug\018_MessageBox.exe
+C:\Csharp\018_MessageBox\bin\Debug\018_MessageBox.pdb
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.csproj.AssemblyReference.cache
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\018_MessageBox\obj\Debug\_018_MessageBox.Form1.resources
+C:\Csharp\018_MessageBox\obj\Debug\_018_MessageBox.Properties.Resources.resources
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.csproj.GenerateResource.cache
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.csproj.CoreCompileInputs.cache
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.exe
+C:\Csharp\018_MessageBox\obj\Debug\018_MessageBox.pdb
