@@ -1,0 +1,11 @@
+C:\Csharp\024_scrollBar\bin\Debug\024_scrollBar.exe.config
+C:\Csharp\024_scrollBar\bin\Debug\024_scrollBar.exe
+C:\Csharp\024_scrollBar\bin\Debug\024_scrollBar.pdb
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.csproj.AssemblyReference.cache
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\024_scrollBar\obj\Debug\_024_scrollBar.Form1.resources
+C:\Csharp\024_scrollBar\obj\Debug\_024_scrollBar.Properties.Resources.resources
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.csproj.GenerateResource.cache
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.csproj.CoreCompileInputs.cache
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.exe
+C:\Csharp\024_scrollBar\obj\Debug\024_scrollBar.pdb

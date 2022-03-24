@@ -1,0 +1,11 @@
+C:\Csharp\021_CheckBox\bin\Debug\021_CheckBox.exe.config
+C:\Csharp\021_CheckBox\bin\Debug\021_CheckBox.exe
+C:\Csharp\021_CheckBox\bin\Debug\021_CheckBox.pdb
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.csproj.AssemblyReference.cache
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\021_CheckBox\obj\Debug\_021_CheckBox.Form1.resources
+C:\Csharp\021_CheckBox\obj\Debug\_021_CheckBox.Properties.Resources.resources
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.csproj.GenerateResource.cache
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.csproj.CoreCompileInputs.cache
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.exe
+C:\Csharp\021_CheckBox\obj\Debug\021_CheckBox.pdb

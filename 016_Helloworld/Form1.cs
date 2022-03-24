@@ -12,6 +12,7 @@ namespace _016_Helloworld
 {
     public partial class Form1 : Form //Form을 상속받는 Form1
     {
+        bool flag = false;
         public Form1() //객체 생성시 생성자 생성
         {
             InitializeComponent();
@@ -19,7 +20,16 @@ namespace _016_Helloworld
 
         private void button1_Click(object sender, EventArgs e) //버튼 클릭 이벤트 호출 > 함수 실행
         {
-            label1.Text = "Hello! Windows Forms Application!";
+            if (flag == false)
+            {
+                label1.Text = "Hello! Windows Forms Application!";
+                flag = true;
+            }
+            else
+            {
+                label1.Text = " ";
+                flag = false;
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)

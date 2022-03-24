@@ -1,0 +1,11 @@
+C:\Csharp\019_BasicControl\bin\Debug\019_BasicControl.exe.config
+C:\Csharp\019_BasicControl\bin\Debug\019_BasicControl.exe
+C:\Csharp\019_BasicControl\bin\Debug\019_BasicControl.pdb
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.csproj.AssemblyReference.cache
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\019_BasicControl\obj\Debug\_019_BasicControl.Properties.Resources.resources
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.csproj.GenerateResource.cache
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.csproj.CoreCompileInputs.cache
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.exe
+C:\Csharp\019_BasicControl\obj\Debug\019_BasicControl.pdb
+C:\Csharp\019_BasicControl\obj\Debug\_019_BasicControl.Form1.resources
