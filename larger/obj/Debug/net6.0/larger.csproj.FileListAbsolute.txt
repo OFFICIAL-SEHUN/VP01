@@ -1,0 +1,15 @@
+C:\Csharp\larger\bin\Debug\net6.0\larger.exe
+C:\Csharp\larger\bin\Debug\net6.0\larger.deps.json
+C:\Csharp\larger\bin\Debug\net6.0\larger.runtimeconfig.json
+C:\Csharp\larger\bin\Debug\net6.0\larger.dll
+C:\Csharp\larger\bin\Debug\net6.0\larger.pdb
+C:\Csharp\larger\obj\Debug\net6.0\larger.csproj.AssemblyReference.cache
+C:\Csharp\larger\obj\Debug\net6.0\larger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\larger\obj\Debug\net6.0\larger.AssemblyInfoInputs.cache
+C:\Csharp\larger\obj\Debug\net6.0\larger.AssemblyInfo.cs
+C:\Csharp\larger\obj\Debug\net6.0\larger.csproj.CoreCompileInputs.cache
+C:\Csharp\larger\obj\Debug\net6.0\larger.dll
+C:\Csharp\larger\obj\Debug\net6.0\refint\larger.dll
+C:\Csharp\larger\obj\Debug\net6.0\larger.pdb
+C:\Csharp\larger\obj\Debug\net6.0\larger.genruntimeconfig.cache
+C:\Csharp\larger\obj\Debug\net6.0\ref\larger.dll
