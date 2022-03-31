@@ -1,0 +1,16 @@
+C:\Csharp\030_WMP\bin\Debug\030_WMP.exe.config
+C:\Csharp\030_WMP\bin\Debug\030_WMP.exe
+C:\Csharp\030_WMP\bin\Debug\030_WMP.pdb
+C:\Csharp\030_WMP\bin\Debug\Interop.WMPLib.dll
+C:\Csharp\030_WMP\bin\Debug\AxInterop.WMPLib.dll
+C:\Csharp\030_WMP\obj\Debug\030_WMP.csproj.AssemblyReference.cache
+C:\Csharp\030_WMP\obj\Debug\030_WMP.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\030_WMP\obj\Debug\Interop.WMPLib.dll
+C:\Csharp\030_WMP\obj\Debug\AxInterop.WMPLib.dll
+C:\Csharp\030_WMP\obj\Debug\030_WMP.csproj.ResolveComReference.cache
+C:\Csharp\030_WMP\obj\Debug\_030_WMP.Form1.resources
+C:\Csharp\030_WMP\obj\Debug\_030_WMP.Properties.Resources.resources
+C:\Csharp\030_WMP\obj\Debug\030_WMP.csproj.GenerateResource.cache
+C:\Csharp\030_WMP\obj\Debug\030_WMP.csproj.CoreCompileInputs.cache
+C:\Csharp\030_WMP\obj\Debug\030_WMP.exe
+C:\Csharp\030_WMP\obj\Debug\030_WMP.pdb
