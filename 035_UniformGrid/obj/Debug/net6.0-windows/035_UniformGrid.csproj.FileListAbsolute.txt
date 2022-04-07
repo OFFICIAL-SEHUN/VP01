@@ -1,0 +1,3 @@
+C:\Csharp\035_UniformGrid\obj\Debug\net6.0-windows\035_UniformGrid.csproj.AssemblyReference.cache
+C:\Csharp\035_UniformGrid\obj\Debug\net6.0-windows\App.g.cs
+C:\Csharp\035_UniformGrid\obj\Debug\net6.0-windows\035_UniformGrid_MarkupCompile.cache

@@ -1,0 +1,30 @@
+﻿<Window x:Class="_033_StackPannel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_033_StackPannel"
+        mc:Ignorable="d"
+        Title="CheckBox" Height="450" Width="450">
+    <StackPanel Margin="30">
+        <TextBlock HorizontalAlignment="Center" FontSize="18" Margin="10 10"> 좋아하는 프로그래밍 언어를 선택하세요. </TextBlock>
+        <Separator Background="Coral" Margin="20"/>
+        <CheckBox x:Name="C" Margin="40,5">C</CheckBox>
+        <CheckBox x:Name="C_Plus" Margin="40,5">C++</CheckBox>
+        <CheckBox x:Name="C_Sharp" Margin="40,5">C#</CheckBox>
+        <CheckBox x:Name="Python" Margin="40,5">Python</CheckBox>
+        <CheckBox x:Name="Java" Margin="40,5">Java</CheckBox>
+        <Separator Background="Coral" Margin="20"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="btnSubmit"
+                    Height="30"
+                    Margin="20"
+                    Click="btnSubmit_click"
+                    >투표하기</Button>
+            <Button x:Name="btnExit"
+                    Margin="30"
+                    Click="btnExit_click"
+                    >나가기</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
