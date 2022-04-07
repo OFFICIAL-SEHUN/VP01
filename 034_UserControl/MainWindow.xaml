@@ -1,0 +1,86 @@
+﻿<Window x:Class="_034_UserControl.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_034_UserControl"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <TextBlock DockPanel.Dock="Top"
+                   HorizontalAlignment="Center"
+                   FontSize="30"
+                   FontWeight="Bold"
+                   Margin="30 20 30 20"
+                   >COLOR TEST</TextBlock>
+        <StackPanel DockPanel.Dock="Top"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <Button
+                x:Name="btnR"
+                Margin="20"
+                HorizontalAlignment="Center"
+                Width="50"
+                Height="50"
+                VerticalAlignment="Center"
+                Click="btnR_Click">
+
+                <StackPanel>
+                    <Rectangle Fill ="Red"
+                    MinHeight="25"
+                    MinWidth="25"/>
+                    <TextBlock 
+                        HorizontalAlignment="Center">Red</TextBlock>
+                </StackPanel>
+
+
+            </Button>
+            <Button
+                x:Name="btnG"
+                Margin="20"
+                HorizontalAlignment="Center"
+                Width="50"
+                Height="50"
+                VerticalAlignment="Center"
+                Click="btnG_Click">
+
+                <StackPanel>
+                    <Rectangle Fill ="Green"
+                    MinHeight="25"
+                    MinWidth="25"/>
+                    <TextBlock 
+                        HorizontalAlignment="Center">Green</TextBlock>
+                </StackPanel>
+
+
+            </Button>
+            <Button
+                x:Name="btnB"
+                Margin="20"
+                HorizontalAlignment="Center"
+                Width="50"
+                Height="50"
+                VerticalAlignment="Center"
+                Click="btnB_Click">
+
+                <StackPanel>
+                    <Rectangle Fill ="Blue"
+                    MinHeight="25"
+                    MinWidth="25"/>
+                    <TextBlock 
+                        HorizontalAlignment="Center">Blue</TextBlock>
+                </StackPanel>
+
+
+            </Button>
+        </StackPanel>
+
+
+        <Button DockPanel.Dock="Bottom"
+                x:Name="btnColor"
+                Margin="30 0 30 30"
+                MinHeight="200"
+                MinWidth="200"
+                Background="AliceBlue"> </Button>
+    </DockPanel>
+</Window>
