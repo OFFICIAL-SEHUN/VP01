@@ -15,6 +15,7 @@ namespace _025_ListBox
         public Form1() //생성자 함수 - 객체생성시 자동실행 / form이 뜨자마자 하는 작업은 생성자함수에서 작업하기
         {
             InitializeComponent(); 
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -63,9 +64,5 @@ namespace _025_ListBox
             txtSItem3.Text = l.SelectedItem.ToString();
         }
 
-        private void txtSIndex1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     } //List Box 작성하기 1. form1생성자안에 작성(최적) 2. Form1_Load에 작성 3. 속성창의 문자열 컬렉션으로 작성
 }

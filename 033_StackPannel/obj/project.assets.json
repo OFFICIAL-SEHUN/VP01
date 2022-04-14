@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tpgns\\.nuget\\packages\\": {},
+    "C:\\Users\\박세훈\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Csharp\\033_StackPannel\\033_StackPannel.csproj",
+      "projectUniqueName": "C:\\Csharp\\VP01\\033_StackPannel\\033_StackPannel.csproj",
       "projectName": "033_StackPannel",
-      "projectPath": "C:\\Csharp\\033_StackPannel\\033_StackPannel.csproj",
-      "packagesPath": "C:\\Users\\tpgns\\.nuget\\packages\\",
-      "outputPath": "C:\\Csharp\\033_StackPannel\\obj\\",
+      "projectPath": "C:\\Csharp\\VP01\\033_StackPannel\\033_StackPannel.csproj",
+      "packagesPath": "C:\\Users\\박세훈\\.nuget\\packages\\",
+      "outputPath": "C:\\Csharp\\VP01\\033_StackPannel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\tpgns\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\박세훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

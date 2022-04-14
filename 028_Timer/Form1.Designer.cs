@@ -36,18 +36,20 @@
             // lblTime
             // 
             this.lblTime.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.lblTime.Location = new System.Drawing.Point(75, 67);
+            this.lblTime.Location = new System.Drawing.Point(52, 45);
+            this.lblTime.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(648, 322);
+            this.lblTime.Size = new System.Drawing.Size(454, 215);
             this.lblTime.TabIndex = 0;
             this.lblTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(560, 300);
             this.Controls.Add(this.lblTime);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "디지털 시계";
             this.Load += new System.EventHandler(this.Form1_Load);

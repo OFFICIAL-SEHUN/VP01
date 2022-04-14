@@ -34,8 +34,8 @@ namespace _022_radio
 
         private void button1_Click(object sender, EventArgs e)
         {
-            RadioButton[] rbNation = { radioButton1, radioButton2, radioButton3, radioButton4 };
-            RadioButton[] rbSex = { radioButton5, radioButton6 };
+            RadioButton[] rbNation = { rbKorea, rbJapan, rbChina, rbOthers };
+            RadioButton[] rbSex = { rbMale, rbFemale };
 
             string result = "";
             foreach (RadioButton rb in rbNation)

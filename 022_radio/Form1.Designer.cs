@@ -29,13 +29,13 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.rbOthers = new System.Windows.Forms.RadioButton();
+            this.rbChina = new System.Windows.Forms.RadioButton();
+            this.rbJapan = new System.Windows.Forms.RadioButton();
+            this.rbKorea = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.rbMale = new System.Windows.Forms.RadioButton();
+            this.rbFemale = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -43,102 +43,113 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.radioButton4);
-            this.groupBox1.Controls.Add(this.radioButton3);
-            this.groupBox1.Controls.Add(this.radioButton2);
-            this.groupBox1.Controls.Add(this.radioButton1);
-            this.groupBox1.Location = new System.Drawing.Point(61, 75);
+            this.groupBox1.Controls.Add(this.rbOthers);
+            this.groupBox1.Controls.Add(this.rbChina);
+            this.groupBox1.Controls.Add(this.rbJapan);
+            this.groupBox1.Controls.Add(this.rbKorea);
+            this.groupBox1.Location = new System.Drawing.Point(43, 50);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 204);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(140, 136);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "국적";
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
-            // radioButton4
+            // rbOthers
             // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(25, 140);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(117, 22);
-            this.radioButton4.TabIndex = 3;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "그 외 국가";
-            this.radioButton4.UseVisualStyleBackColor = true;
+            this.rbOthers.AutoSize = true;
+            this.rbOthers.Location = new System.Drawing.Point(18, 93);
+            this.rbOthers.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbOthers.Name = "rbOthers";
+            this.rbOthers.Size = new System.Drawing.Size(79, 16);
+            this.rbOthers.TabIndex = 3;
+            this.rbOthers.TabStop = true;
+            this.rbOthers.Text = "그 외 국가";
+            this.rbOthers.UseVisualStyleBackColor = true;
             // 
-            // radioButton3
+            // rbChina
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(25, 108);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(69, 22);
-            this.radioButton3.TabIndex = 2;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "중국";
-            this.radioButton3.UseVisualStyleBackColor = true;
+            this.rbChina.AutoSize = true;
+            this.rbChina.Location = new System.Drawing.Point(18, 72);
+            this.rbChina.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbChina.Name = "rbChina";
+            this.rbChina.Size = new System.Drawing.Size(47, 16);
+            this.rbChina.TabIndex = 2;
+            this.rbChina.TabStop = true;
+            this.rbChina.Text = "중국";
+            this.rbChina.UseVisualStyleBackColor = true;
             // 
-            // radioButton2
+            // rbJapan
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(25, 76);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(69, 22);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "일본";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            this.rbJapan.AutoSize = true;
+            this.rbJapan.Location = new System.Drawing.Point(18, 51);
+            this.rbJapan.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbJapan.Name = "rbJapan";
+            this.rbJapan.Size = new System.Drawing.Size(47, 16);
+            this.rbJapan.TabIndex = 1;
+            this.rbJapan.TabStop = true;
+            this.rbJapan.Text = "일본";
+            this.rbJapan.UseVisualStyleBackColor = true;
+            this.rbJapan.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
-            // radioButton1
+            // rbKorea
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(25, 44);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(105, 22);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "대한민국";
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.rbKorea.AutoSize = true;
+            this.rbKorea.Location = new System.Drawing.Point(18, 29);
+            this.rbKorea.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbKorea.Name = "rbKorea";
+            this.rbKorea.Size = new System.Drawing.Size(71, 16);
+            this.rbKorea.TabIndex = 0;
+            this.rbKorea.TabStop = true;
+            this.rbKorea.Text = "대한민국";
+            this.rbKorea.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.radioButton5);
-            this.groupBox2.Controls.Add(this.radioButton6);
-            this.groupBox2.Location = new System.Drawing.Point(398, 75);
+            this.groupBox2.Controls.Add(this.rbMale);
+            this.groupBox2.Controls.Add(this.rbFemale);
+            this.groupBox2.Location = new System.Drawing.Point(279, 50);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(196, 151);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Size = new System.Drawing.Size(137, 101);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "성별";
             // 
-            // radioButton5
+            // rbMale
             // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(6, 73);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(51, 22);
-            this.radioButton5.TabIndex = 3;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "남";
-            this.radioButton5.UseVisualStyleBackColor = true;
+            this.rbMale.AutoSize = true;
+            this.rbMale.Location = new System.Drawing.Point(4, 49);
+            this.rbMale.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbMale.Name = "rbMale";
+            this.rbMale.Size = new System.Drawing.Size(35, 16);
+            this.rbMale.TabIndex = 3;
+            this.rbMale.TabStop = true;
+            this.rbMale.Text = "남";
+            this.rbMale.UseVisualStyleBackColor = true;
             // 
-            // radioButton6
+            // rbFemale
             // 
-            this.radioButton6.AutoSize = true;
-            this.radioButton6.Location = new System.Drawing.Point(103, 73);
-            this.radioButton6.Name = "radioButton6";
-            this.radioButton6.Size = new System.Drawing.Size(51, 22);
-            this.radioButton6.TabIndex = 2;
-            this.radioButton6.TabStop = true;
-            this.radioButton6.Text = "여";
-            this.radioButton6.UseVisualStyleBackColor = true;
-            this.radioButton6.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
+            this.rbFemale.AutoSize = true;
+            this.rbFemale.Location = new System.Drawing.Point(72, 49);
+            this.rbFemale.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rbFemale.Name = "rbFemale";
+            this.rbFemale.Size = new System.Drawing.Size(35, 16);
+            this.rbFemale.TabIndex = 2;
+            this.rbFemale.TabStop = true;
+            this.rbFemale.Text = "여";
+            this.rbFemale.UseVisualStyleBackColor = true;
+            this.rbFemale.CheckedChanged += new System.EventHandler(this.radioButton6_CheckedChanged);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(518, 307);
+            this.button1.Location = new System.Drawing.Point(363, 205);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 28);
+            this.button1.Size = new System.Drawing.Size(52, 19);
             this.button1.TabIndex = 2;
             this.button1.Text = "제출";
             this.button1.UseVisualStyleBackColor = true;
@@ -146,12 +157,13 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(624, 382);
+            this.ClientSize = new System.Drawing.Size(437, 255);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.groupBox1.ResumeLayout(false);
@@ -165,13 +177,13 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.RadioButton radioButton4;
-        private System.Windows.Forms.RadioButton radioButton3;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.RadioButton rbOthers;
+        private System.Windows.Forms.RadioButton rbChina;
+        private System.Windows.Forms.RadioButton rbJapan;
+        private System.Windows.Forms.RadioButton rbKorea;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.RadioButton radioButton5;
-        private System.Windows.Forms.RadioButton radioButton6;
+        private System.Windows.Forms.RadioButton rbMale;
+        private System.Windows.Forms.RadioButton rbFemale;
         private System.Windows.Forms.Button button1;
     }
 }

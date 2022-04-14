@@ -11,3 +11,16 @@ C:\Csharp\029_DateTimePicker\obj\Debug\029_DateTimePicker.exe
 C:\Csharp\029_DateTimePicker\obj\Debug\029_DateTimePicker.pdb
 C:\Csharp\029_DateTimePicker\obj\Debug\Interop.WMPLib.dll
 C:\Csharp\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.ResolveComReference.cache
+C:\Csharp\VP01\029_DateTimePicker\bin\Debug\029_DateTimePicker.exe.config
+C:\Csharp\VP01\029_DateTimePicker\bin\Debug\029_DateTimePicker.exe
+C:\Csharp\VP01\029_DateTimePicker\bin\Debug\029_DateTimePicker.pdb
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.AssemblyReference.cache
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\Interop.WMPLib.dll
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.ResolveComReference.cache
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\_029_DateTimePicker.Form1.resources
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\_029_DateTimePicker.Properties.Resources.resources
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.GenerateResource.cache
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.exe
+C:\Csharp\VP01\029_DateTimePicker\obj\Debug\029_DateTimePicker.pdb

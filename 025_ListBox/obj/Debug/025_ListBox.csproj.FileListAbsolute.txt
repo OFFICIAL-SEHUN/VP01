@@ -9,3 +9,14 @@ C:\Csharp\025_ListBox\obj\Debug\025_ListBox.csproj.GenerateResource.cache
 C:\Csharp\025_ListBox\obj\Debug\025_ListBox.csproj.CoreCompileInputs.cache
 C:\Csharp\025_ListBox\obj\Debug\025_ListBox.exe
 C:\Csharp\025_ListBox\obj\Debug\025_ListBox.pdb
+C:\Csharp\VP01\025_ListBox\bin\Debug\025_ListBox.exe.config
+C:\Csharp\VP01\025_ListBox\bin\Debug\025_ListBox.exe
+C:\Csharp\VP01\025_ListBox\bin\Debug\025_ListBox.pdb
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.csproj.AssemblyReference.cache
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\025_ListBox\obj\Debug\_025_ListBox.Form1.resources
+C:\Csharp\VP01\025_ListBox\obj\Debug\_025_ListBox.Properties.Resources.resources
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.csproj.GenerateResource.cache
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.exe
+C:\Csharp\VP01\025_ListBox\obj\Debug\025_ListBox.pdb

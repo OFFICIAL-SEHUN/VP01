@@ -12,8 +12,7 @@ namespace _012_Larger
         {
             int Larger(int a, int b)
             {
-                int bigger;
-                return bigger = (a > b) ? a : b;
+                return  (a > b) ? a : b;
             }
             string[] token;
             Console.Write("정수 세 개를 입력하세요 : ");

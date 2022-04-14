@@ -9,3 +9,14 @@ C:\Csharp\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.GenerateResource.cache
 C:\Csharp\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.CoreCompileInputs.cache
 C:\Csharp\027_Combo_Calc\obj\Debug\027_Combo_Calc.exe
 C:\Csharp\027_Combo_Calc\obj\Debug\027_Combo_Calc.pdb
+C:\Csharp\VP01\027_Combo_Calc\bin\Debug\027_Combo_Calc.exe.config
+C:\Csharp\VP01\027_Combo_Calc\bin\Debug\027_Combo_Calc.exe
+C:\Csharp\VP01\027_Combo_Calc\bin\Debug\027_Combo_Calc.pdb
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.AssemblyReference.cache
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\_027_Combo_Calc.Form1.resources
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\_027_Combo_Calc.Properties.Resources.resources
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.GenerateResource.cache
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.csproj.CoreCompileInputs.cache
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.exe
+C:\Csharp\VP01\027_Combo_Calc\obj\Debug\027_Combo_Calc.pdb

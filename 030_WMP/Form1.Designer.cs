@@ -36,9 +36,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(673, 404);
+            this.button1.Location = new System.Drawing.Point(642, 309);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(101, 34);
+            this.button1.Size = new System.Drawing.Size(71, 23);
             this.button1.TabIndex = 1;
             this.button1.Text = "파일찾기";
             this.button1.UseVisualStyleBackColor = true;
@@ -47,19 +48,21 @@
             // axWindowsMediaPlayer1
             // 
             this.axWindowsMediaPlayer1.Enabled = true;
-            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(22, 12);
+            this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(83, 68);
+            this.axWindowsMediaPlayer1.Margin = new System.Windows.Forms.Padding(2);
             this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
             this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(526, 411);
+            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(501, 264);
             this.axWindowsMediaPlayer1.TabIndex = 0;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(795, 438);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.axWindowsMediaPlayer1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();

@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.txtKor = new System.Windows.Forms.TextBox();
-            this.txtMath = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.txtEng = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.txtMath = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtKor = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.txtAvg = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -53,64 +53,72 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.txtKor);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(35, 35);
+            this.groupBox1.Location = new System.Drawing.Point(24, 23);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(169, 182);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Size = new System.Drawing.Size(118, 121);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "성적입력";
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(7, 46);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 18);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "국어";
-            // 
-            // txtKor
-            // 
-            this.txtKor.Location = new System.Drawing.Point(74, 43);
-            this.txtKor.Name = "txtKor";
-            this.txtKor.Size = new System.Drawing.Size(89, 28);
-            this.txtKor.TabIndex = 1;
-            this.txtKor.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // txtMath
-            // 
-            this.txtMath.Location = new System.Drawing.Point(73, 77);
-            this.txtMath.Name = "txtMath";
-            this.txtMath.Size = new System.Drawing.Size(89, 28);
-            this.txtMath.TabIndex = 3;
-            this.txtMath.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(6, 80);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 18);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "수학";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
             // txtEng
             // 
-            this.txtEng.Location = new System.Drawing.Point(73, 111);
+            this.txtEng.Location = new System.Drawing.Point(51, 74);
+            this.txtEng.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtEng.Name = "txtEng";
-            this.txtEng.Size = new System.Drawing.Size(89, 28);
+            this.txtEng.Size = new System.Drawing.Size(64, 21);
             this.txtEng.TabIndex = 5;
             this.txtEng.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 114);
+            this.label3.Location = new System.Drawing.Point(4, 76);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 18);
+            this.label3.Size = new System.Drawing.Size(29, 12);
             this.label3.TabIndex = 4;
             this.label3.Text = "영어";
+            // 
+            // txtMath
+            // 
+            this.txtMath.Location = new System.Drawing.Point(51, 51);
+            this.txtMath.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMath.Name = "txtMath";
+            this.txtMath.Size = new System.Drawing.Size(64, 21);
+            this.txtMath.TabIndex = 3;
+            this.txtMath.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(4, 53);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(29, 12);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "수학";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
+            // 
+            // txtKor
+            // 
+            this.txtKor.Location = new System.Drawing.Point(52, 29);
+            this.txtKor.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtKor.Name = "txtKor";
+            this.txtKor.Size = new System.Drawing.Size(64, 21);
+            this.txtKor.TabIndex = 1;
+            this.txtKor.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(5, 31);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(29, 12);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "국어";
             // 
             // groupBox2
             // 
@@ -118,52 +126,59 @@
             this.groupBox2.Controls.Add(this.label5);
             this.groupBox2.Controls.Add(this.txtSum);
             this.groupBox2.Controls.Add(this.label4);
-            this.groupBox2.Location = new System.Drawing.Point(243, 35);
+            this.groupBox2.Location = new System.Drawing.Point(170, 23);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(169, 140);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Size = new System.Drawing.Size(118, 93);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "결과";
             // 
             // txtAvg
             // 
-            this.txtAvg.Location = new System.Drawing.Point(73, 77);
+            this.txtAvg.Location = new System.Drawing.Point(51, 51);
+            this.txtAvg.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtAvg.Name = "txtAvg";
-            this.txtAvg.Size = new System.Drawing.Size(89, 28);
+            this.txtAvg.Size = new System.Drawing.Size(64, 21);
             this.txtAvg.TabIndex = 3;
             this.txtAvg.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(6, 80);
+            this.label5.Location = new System.Drawing.Point(4, 53);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(44, 18);
+            this.label5.Size = new System.Drawing.Size(29, 12);
             this.label5.TabIndex = 2;
             this.label5.Text = "평균";
             // 
             // txtSum
             // 
-            this.txtSum.Location = new System.Drawing.Point(74, 43);
+            this.txtSum.Location = new System.Drawing.Point(52, 29);
+            this.txtSum.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtSum.Name = "txtSum";
-            this.txtSum.Size = new System.Drawing.Size(89, 28);
+            this.txtSum.Size = new System.Drawing.Size(64, 21);
             this.txtSum.TabIndex = 1;
             this.txtSum.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(7, 46);
+            this.label4.Location = new System.Drawing.Point(5, 31);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(44, 18);
+            this.label4.Size = new System.Drawing.Size(29, 12);
             this.label4.TabIndex = 0;
             this.label4.Text = "총점";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(243, 181);
+            this.button1.Location = new System.Drawing.Point(170, 121);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(169, 36);
+            this.button1.Size = new System.Drawing.Size(118, 24);
             this.button1.TabIndex = 2;
             this.button1.Text = "계산";
             this.button1.UseVisualStyleBackColor = true;
@@ -171,12 +186,13 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(449, 276);
+            this.ClientSize = new System.Drawing.Size(314, 184);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "성적계산기";
             this.groupBox1.ResumeLayout(false);
