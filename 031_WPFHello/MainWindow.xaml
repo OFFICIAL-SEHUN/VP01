@@ -17,6 +17,8 @@
             FontWeight="Bold"
             FontStyle="Italic"
             MouseDown="TextHello_MouseDown"
+            
             >Hello World</TextBlock>
+        
     </Grid>
 </Window>

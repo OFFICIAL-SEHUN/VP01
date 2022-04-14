@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "034_UserControl", "034_User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035_UniformGrid", "035_UniformGrid\035_UniformGrid.csproj", "{1E6DAE3F-56F7-45A6-8B74-66177B2B4FCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036_ChessBoard", "036_ChessBoard\036_ChessBoard.csproj", "{CC69DD95-CC95-4C75-B186-6BFC767D24B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036_ChessBoard", "036_ChessBoard\036_ChessBoard.csproj", "{CC69DD95-CC95-4C75-B186-6BFC767D24B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037_Calculator", "037_Calculator\037_Calculator.csproj", "{3E860BD5-45EA-44FD-81E5-0399B677F83E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{CC69DD95-CC95-4C75-B186-6BFC767D24B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC69DD95-CC95-4C75-B186-6BFC767D24B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC69DD95-CC95-4C75-B186-6BFC767D24B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
