@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Csharp\\VP01\\032_Grid\\032_Grid.csproj": {}
+    "C:\\Csharp\\032_Grid\\032_Grid.csproj": {}
   },
   "projects": {
-    "C:\\Csharp\\VP01\\032_Grid\\032_Grid.csproj": {
+    "C:\\Csharp\\032_Grid\\032_Grid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Csharp\\VP01\\032_Grid\\032_Grid.csproj",
+        "projectUniqueName": "C:\\Csharp\\032_Grid\\032_Grid.csproj",
         "projectName": "032_Grid",
-        "projectPath": "C:\\Csharp\\VP01\\032_Grid\\032_Grid.csproj",
-        "packagesPath": "C:\\Users\\박세훈\\.nuget\\packages\\",
-        "outputPath": "C:\\Csharp\\VP01\\032_Grid\\obj\\",
+        "projectPath": "C:\\Csharp\\032_Grid\\032_Grid.csproj",
+        "packagesPath": "C:\\Users\\tpgns\\.nuget\\packages\\",
+        "outputPath": "C:\\Csharp\\032_Grid\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\박세훈\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tpgns\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -10,13 +10,13 @@ namespace _009_Pyramid
     {
         static void Main(string[] args)
         {
-            for(int line = 1; line < 5; line++)
+            for(int line = 1; line <= 5; line++)
             {
-                for (int space = 1; space < 5 - line; space++)
+                for (int space = 0; space < 5 - line; space++)
                 {
                     Console.Write(" ");
                 }
-                for (int star = 1; star <= 2*line-1; star++)
+                for (int star = 0; star < 2*line-1; star++)
                 {
                     Console.Write("*");
                 }

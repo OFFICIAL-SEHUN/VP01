@@ -1,0 +1,11 @@
+C:\Csharp\039_PhoneBook\bin\Debug\039_PhoneBook.exe.config
+C:\Csharp\039_PhoneBook\bin\Debug\039_PhoneBook.exe
+C:\Csharp\039_PhoneBook\bin\Debug\039_PhoneBook.pdb
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.csproj.AssemblyReference.cache
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\039_PhoneBook\obj\Debug\_039_PhoneBook.Form1.resources
+C:\Csharp\039_PhoneBook\obj\Debug\_039_PhoneBook.Properties.Resources.resources
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.csproj.GenerateResource.cache
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.csproj.CoreCompileInputs.cache
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.exe
+C:\Csharp\039_PhoneBook\obj\Debug\039_PhoneBook.pdb

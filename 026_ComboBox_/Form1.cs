@@ -20,13 +20,14 @@ namespace _026_ComboBox_
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             ComboBox comboBox = (ComboBox) sender;
-            lblRestaurant.Text = "이번 주 모임장소는 : " + comboBox.SelectedIndex.ToString();
+            lblRestaurant.Text = "이번 주 모임장소는 : " + comboBox.SelectedItem.ToString();
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(comboBox1.Text != "") comboBox1.Items.Add (comboBox1.Text);
+            if(comboBox1.Text != "") 
+                comboBox1.Items.Add (comboBox1.Text);
             lblRestaurant.Text = comboBox1.Text + " Added!";
         }
 

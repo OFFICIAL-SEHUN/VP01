@@ -30,7 +30,7 @@ namespace _033_StackPannel
 
         private void btnSubmit_click(object sender, RoutedEventArgs e)
         {
-            string str = string.Empty;
+            string str = "";
             foreach (var cb in cbs)
             {
                 if (cb.IsChecked == true)

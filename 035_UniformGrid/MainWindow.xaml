@@ -6,11 +6,9 @@
         xmlns:local="clr-namespace:_035_UniformGrid"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="450">
-    <UniformGrid>
-        <Rectangle Fill="Black"/>
-        <Rectangle Fill="Red"/>
-        <Rectangle Fill="Red"/>
-        <Rectangle Fill="Black"/>
+    <UniformGrid
+        x:Name="chess_Board">
+        
 
     </UniformGrid>
 </Window>

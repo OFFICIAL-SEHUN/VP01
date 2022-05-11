@@ -1,0 +1,15 @@
+C:\Csharp\038_ListArray\bin\Debug\net6.0\038_ListArray.exe
+C:\Csharp\038_ListArray\bin\Debug\net6.0\038_ListArray.deps.json
+C:\Csharp\038_ListArray\bin\Debug\net6.0\038_ListArray.runtimeconfig.json
+C:\Csharp\038_ListArray\bin\Debug\net6.0\038_ListArray.dll
+C:\Csharp\038_ListArray\bin\Debug\net6.0\038_ListArray.pdb
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.csproj.AssemblyReference.cache
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.AssemblyInfoInputs.cache
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.AssemblyInfo.cs
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.csproj.CoreCompileInputs.cache
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.dll
+C:\Csharp\038_ListArray\obj\Debug\net6.0\refint\038_ListArray.dll
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.pdb
+C:\Csharp\038_ListArray\obj\Debug\net6.0\038_ListArray.genruntimeconfig.cache
+C:\Csharp\038_ListArray\obj\Debug\net6.0\ref\038_ListArray.dll

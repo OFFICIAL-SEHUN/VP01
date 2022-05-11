@@ -25,7 +25,7 @@ namespace _005_Loop
             Console.WriteLine("1~100의 합 : {0}",sum);
             Console.WriteLine("1~100의 짝수의 합 : {0}",even_sum);
             Console.WriteLine("1~100의 홀수의 합 : {0}",odd_sum);
-            Console.WriteLine("1~100의 역수의 합 : {0:G6}",reverse_sum); //형식지정자를 이용한 포메팅
+            Console.WriteLine("1~100의 역수의 합 : {0:G4}",reverse_sum); //형식지정자를 이용한 포메팅
         }
     }
 }

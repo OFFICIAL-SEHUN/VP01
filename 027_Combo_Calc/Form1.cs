@@ -36,9 +36,11 @@ namespace _027_Combo_Calc
             grds = new ComboBox[] { grd1, grd2, grd3, grd4, grd5, grd6, grd7 };
 
             int[] arrCredit = { 1, 2, 3, 4, 5 }; //학점
-            List<string> lstGrade = new List<string>
+            List<string> lstGrade = new List<string>()
             {
                 "A+","A0","B+","B0","C+","C0","D+","D0","F"};
+
+
             foreach(var c in crds)
             {
                 foreach(var i in arrCredit)
@@ -73,7 +75,7 @@ namespace _027_Combo_Calc
         {
             double grade;
             if (v == "A+") grade = 4.5;
-            else if (v == "A") grade = 4.0;
+            else if (v == "A0") grade = 4.0;
             else if (v == "B+") grade = 3.5;
             else if (v == "B0") grade = 3.0;
             else if (v == "C+") grade = 2.5;

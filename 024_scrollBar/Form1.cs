@@ -40,10 +40,10 @@ namespace _024_scrollBar
         {
             if (txtR.Text != "0" && txtG.Text != "0" && txtB.Text != "0")
             {
-                scrR.Value = int.Parse(txtR.Text);
-                scrG.Value = int.Parse(txtG.Text);
-                scrB.Value = int.Parse(txtB.Text);
-                panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
+                //scrR.Value = int.Parse(txtR.Text);
+                //scrG.Value = int.Parse(txtG.Text);
+                //scrB.Value = int.Parse(txtB.Text);
+                panel1.BackColor = Color.FromArgb(int.Parse(txtR.Text), int.Parse(txtG.Text), int.Parse(txtB.Text));
             }
         }
     }

@@ -42,98 +42,91 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(50, 43);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.panel1.Location = new System.Drawing.Point(71, 64);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(451, 97);
+            this.panel1.Size = new System.Drawing.Size(644, 146);
             this.panel1.TabIndex = 0;
             // 
             // red
             // 
             this.red.AutoSize = true;
-            this.red.Location = new System.Drawing.Point(58, 161);
-            this.red.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.red.Location = new System.Drawing.Point(83, 242);
             this.red.Name = "red";
-            this.red.Size = new System.Drawing.Size(27, 12);
+            this.red.Size = new System.Drawing.Size(39, 18);
             this.red.TabIndex = 1;
             this.red.Text = "Red";
             // 
             // scrG
             // 
-            this.scrG.Location = new System.Drawing.Point(119, 189);
+            this.scrG.Location = new System.Drawing.Point(170, 284);
             this.scrG.Name = "scrG";
-            this.scrG.Size = new System.Drawing.Size(293, 26);
+            this.scrG.Size = new System.Drawing.Size(419, 26);
             this.scrG.TabIndex = 2;
             this.scrG.Scroll += new System.Windows.Forms.ScrollEventHandler(this.scr_Scroll);
             // 
             // scrR
             // 
-            this.scrR.Location = new System.Drawing.Point(119, 153);
+            this.scrR.Location = new System.Drawing.Point(170, 230);
             this.scrR.Name = "scrR";
-            this.scrR.Size = new System.Drawing.Size(293, 29);
+            this.scrR.Size = new System.Drawing.Size(419, 29);
             this.scrR.TabIndex = 4;
             this.scrR.Scroll += new System.Windows.Forms.ScrollEventHandler(this.scr_Scroll);
             // 
             // blue
             // 
             this.blue.AutoSize = true;
-            this.blue.Location = new System.Drawing.Point(58, 226);
-            this.blue.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.blue.Location = new System.Drawing.Point(83, 339);
             this.blue.Name = "blue";
-            this.blue.Size = new System.Drawing.Size(30, 12);
+            this.blue.Size = new System.Drawing.Size(42, 18);
             this.blue.TabIndex = 3;
             this.blue.Text = "Blue";
             // 
             // scrB
             // 
-            this.scrB.Location = new System.Drawing.Point(118, 226);
+            this.scrB.Location = new System.Drawing.Point(169, 339);
             this.scrB.Name = "scrB";
-            this.scrB.Size = new System.Drawing.Size(293, 26);
+            this.scrB.Size = new System.Drawing.Size(419, 26);
             this.scrB.TabIndex = 6;
             this.scrB.Scroll += new System.Windows.Forms.ScrollEventHandler(this.scr_Scroll);
             // 
             // green
             // 
             this.green.AutoSize = true;
-            this.green.Location = new System.Drawing.Point(58, 195);
-            this.green.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.green.Location = new System.Drawing.Point(83, 292);
             this.green.Name = "green";
-            this.green.Size = new System.Drawing.Size(39, 12);
+            this.green.Size = new System.Drawing.Size(56, 18);
             this.green.TabIndex = 5;
             this.green.Text = "Green";
             // 
             // txtR
             // 
-            this.txtR.Location = new System.Drawing.Point(444, 154);
-            this.txtR.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtR.Location = new System.Drawing.Point(634, 231);
             this.txtR.Name = "txtR";
-            this.txtR.Size = new System.Drawing.Size(71, 21);
+            this.txtR.Size = new System.Drawing.Size(100, 28);
             this.txtR.TabIndex = 7;
             this.txtR.TextChanged += new System.EventHandler(this.txt_TextChanged);
             // 
             // txtB
             // 
-            this.txtB.Location = new System.Drawing.Point(444, 233);
-            this.txtB.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtB.Location = new System.Drawing.Point(634, 350);
             this.txtB.Name = "txtB";
-            this.txtB.Size = new System.Drawing.Size(71, 21);
+            this.txtB.Size = new System.Drawing.Size(100, 28);
             this.txtB.TabIndex = 8;
             this.txtB.TextChanged += new System.EventHandler(this.txt_TextChanged);
             // 
             // txtG
             // 
-            this.txtG.Location = new System.Drawing.Point(444, 196);
-            this.txtG.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtG.Location = new System.Drawing.Point(634, 294);
             this.txtG.Name = "txtG";
-            this.txtG.Size = new System.Drawing.Size(71, 21);
+            this.txtG.Size = new System.Drawing.Size(100, 28);
             this.txtG.TabIndex = 9;
             this.txtG.TextChanged += new System.EventHandler(this.txt_TextChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 300);
+            this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.txtG);
             this.Controls.Add(this.txtB);
             this.Controls.Add(this.txtR);
@@ -144,7 +137,6 @@
             this.Controls.Add(this.scrG);
             this.Controls.Add(this.red);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.TextChanged += new System.EventHandler(this.txt_TextChanged);

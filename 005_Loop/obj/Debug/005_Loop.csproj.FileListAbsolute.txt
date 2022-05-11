@@ -6,3 +6,11 @@ C:\Csharp\VP01\005_Loop\obj\Debug\005_Loop.csproj.SuggestedBindingRedirects.cach
 C:\Csharp\VP01\005_Loop\obj\Debug\005_Loop.csproj.CoreCompileInputs.cache
 C:\Csharp\VP01\005_Loop\obj\Debug\005_Loop.exe
 C:\Csharp\VP01\005_Loop\obj\Debug\005_Loop.pdb
+C:\Csharp\005_Loop\bin\Debug\005_Loop.exe.config
+C:\Csharp\005_Loop\bin\Debug\005_Loop.exe
+C:\Csharp\005_Loop\bin\Debug\005_Loop.pdb
+C:\Csharp\005_Loop\obj\Debug\005_Loop.csproj.AssemblyReference.cache
+C:\Csharp\005_Loop\obj\Debug\005_Loop.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\005_Loop\obj\Debug\005_Loop.csproj.CoreCompileInputs.cache
+C:\Csharp\005_Loop\obj\Debug\005_Loop.exe
+C:\Csharp\005_Loop\obj\Debug\005_Loop.pdb

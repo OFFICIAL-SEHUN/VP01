@@ -75,7 +75,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "035_UniformGrid", "035_Unif
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "036_ChessBoard", "036_ChessBoard\036_ChessBoard.csproj", "{CC69DD95-CC95-4C75-B186-6BFC767D24B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037_Calculator", "037_Calculator\037_Calculator.csproj", "{3E860BD5-45EA-44FD-81E5-0399B677F83E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "037_Calculator", "037_Calculator\037_Calculator.csproj", "{3E860BD5-45EA-44FD-81E5-0399B677F83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "038_ListArray", "038_ListArray\038_ListArray.csproj", "{252CC7C4-0278-4A76-8541-88B430E57B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039_PhoneBook", "039_PhoneBook\039_PhoneBook.csproj", "{9F593CDD-DC42-49FA-80A2-07EC3E779278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +235,14 @@ Global
 		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E860BD5-45EA-44FD-81E5-0399B677F83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252CC7C4-0278-4A76-8541-88B430E57B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252CC7C4-0278-4A76-8541-88B430E57B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252CC7C4-0278-4A76-8541-88B430E57B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252CC7C4-0278-4A76-8541-88B430E57B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F593CDD-DC42-49FA-80A2-07EC3E779278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F593CDD-DC42-49FA-80A2-07EC3E779278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F593CDD-DC42-49FA-80A2-07EC3E779278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F593CDD-DC42-49FA-80A2-07EC3E779278}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,3 +6,11 @@ C:\Csharp\VP01\007_Gugu\obj\Debug\007_Gugu.csproj.SuggestedBindingRedirects.cach
 C:\Csharp\VP01\007_Gugu\obj\Debug\007_Gugu.csproj.CoreCompileInputs.cache
 C:\Csharp\VP01\007_Gugu\obj\Debug\007_Gugu.exe
 C:\Csharp\VP01\007_Gugu\obj\Debug\007_Gugu.pdb
+C:\Csharp\007_Gugu\bin\Debug\007_Gugu.exe.config
+C:\Csharp\007_Gugu\bin\Debug\007_Gugu.exe
+C:\Csharp\007_Gugu\bin\Debug\007_Gugu.pdb
+C:\Csharp\007_Gugu\obj\Debug\007_Gugu.csproj.AssemblyReference.cache
+C:\Csharp\007_Gugu\obj\Debug\007_Gugu.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\007_Gugu\obj\Debug\007_Gugu.csproj.CoreCompileInputs.cache
+C:\Csharp\007_Gugu\obj\Debug\007_Gugu.exe
+C:\Csharp\007_Gugu\obj\Debug\007_Gugu.pdb
