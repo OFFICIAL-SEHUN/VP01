@@ -14,3 +14,6 @@ C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.GenerateResource.cache
 C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.CoreCompileInputs.cache
 C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.exe
 C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.pdb
+C:\Csharp\040_WPFLogin\bin\Debug\myLogin.mdf
+C:\Csharp\040_WPFLogin\bin\Debug\myLogin_log.ldf
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin_Content.g.cs
