@@ -107,5 +107,72 @@ namespace _039_PhoneBook
             connClose();
 
         }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            
+            if (txtID.Text == "" && txtSName.Text == "" && txtPhone.Text == "") return;
+            connopen();
+            string sql = string.Format("SELECT * FROM StudentTable WHERE ");
+            if (txtSID.Text != "")
+                sql += "SID = "+txtSID.Text;
+            else if(txtSName.Text != "")
+                sql += "SName = '"+ txtSName.Text +"'";
+            else if(txtPhone.Text != "")
+                sql += "Phone = '" + txtPhone.Text +"'";
+
+            comm = new OleDbCommand(sql, conn);
+
+            //리스트박스 지우기
+            lstStudent.Items.Clear();
+
+            //DisplayStudent에서 복서해온부분
+            reader = comm.ExecuteReader();
+            while (reader.Read())
+            {
+                string item = "";
+                item += reader["ID"].ToString() + "\t";
+                item += reader["SID"].ToString() + "\t";
+                item += reader["SName"].ToString() + "\t";
+                item += reader["Phone"].ToString();
+
+                lstStudent.Items.Add(item);
+            }
+            reader.Close();
+
+            conn.Close();
+            conn = null;
+        }
+
+        private void btnAll_Click(object sender, EventArgs e)
+        {
+            lstStudent.Items.Clear();
+            DisplayStudents();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            connopen();
+
+            string sql = string.Format("UPDATE StudentTable SET "+
+                "SID = {0}, SName = '{1}', Phone = '{2}' WHERE ID = {3}",txtSID.Text,txtSName.Text,txtPhone.Text,txtID.Text);
+            comm = new OleDbCommand(sql,conn);
+            int x = comm.ExecuteNonQuery();
+            if (x == 1) MessageBox.Show("수정 성공");
+            connClose();
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtID.Text = "";
+            txtSID.Text = "";
+            txtSName.Text = "";
+            txtPhone.Text = "";
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

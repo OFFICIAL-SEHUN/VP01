@@ -1,0 +1,16 @@
+C:\Csharp\041_Splash\bin\Debug\041_Splash.exe.config
+C:\Csharp\041_Splash\bin\Debug\041_Splash.exe
+C:\Csharp\041_Splash\bin\Debug\041_Splash.pdb
+C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.AssemblyReference.cache
+C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\041_Splash\obj\Debug\MainWindow.g.cs
+C:\Csharp\041_Splash\obj\Debug\App.g.cs
+C:\Csharp\041_Splash\obj\Debug\041_Splash_MarkupCompile.cache
+C:\Csharp\041_Splash\obj\Debug\041_Splash_MarkupCompile.lref
+C:\Csharp\041_Splash\obj\Debug\MainWindow.baml
+C:\Csharp\041_Splash\obj\Debug\041_Splash.g.resources
+C:\Csharp\041_Splash\obj\Debug\_041_Splash.Properties.Resources.resources
+C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.GenerateResource.cache
+C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.CoreCompileInputs.cache
+C:\Csharp\041_Splash\obj\Debug\041_Splash.exe
+C:\Csharp\041_Splash\obj\Debug\041_Splash.pdb

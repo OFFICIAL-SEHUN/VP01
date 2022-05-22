@@ -1,0 +1,16 @@
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.AssemblyReference.cache
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\040_WPFLogin\obj\Debug\App.g.cs
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin_MarkupCompile.cache
+C:\Csharp\040_WPFLogin\bin\Debug\040_WPFLogin.exe.config
+C:\Csharp\040_WPFLogin\bin\Debug\040_WPFLogin.exe
+C:\Csharp\040_WPFLogin\bin\Debug\040_WPFLogin.pdb
+C:\Csharp\040_WPFLogin\obj\Debug\MainWindow.g.cs
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin_MarkupCompile.lref
+C:\Csharp\040_WPFLogin\obj\Debug\MainWindow.baml
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.g.resources
+C:\Csharp\040_WPFLogin\obj\Debug\_040_WPFLogin.Properties.Resources.resources
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.GenerateResource.cache
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.csproj.CoreCompileInputs.cache
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.exe
+C:\Csharp\040_WPFLogin\obj\Debug\040_WPFLogin.pdb
