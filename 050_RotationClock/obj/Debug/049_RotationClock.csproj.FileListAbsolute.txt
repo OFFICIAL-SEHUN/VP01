@@ -1,0 +1,16 @@
+C:\Csharp\050_RotationClock\obj\Debug\049_RotationClock.csproj.AssemblyReference.cache
+C:\Csharp\050_RotationClock\obj\Debug\049_RotationClock.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\050_RotationClock\obj\Debug\App.g.cs
+C:\Csharp\050_RotationClock\obj\Debug\050_RotationClock_MarkupCompile.cache
+C:\Csharp\050_RotationClock\obj\Debug\MainWindow.g.cs
+C:\Csharp\050_RotationClock\obj\Debug\050_RotationClock_MarkupCompile.lref
+C:\Csharp\050_RotationClock\bin\Debug\050_RotationClock.exe.config
+C:\Csharp\050_RotationClock\bin\Debug\050_RotationClock.exe
+C:\Csharp\050_RotationClock\bin\Debug\050_RotationClock.pdb
+C:\Csharp\050_RotationClock\obj\Debug\MainWindow.baml
+C:\Csharp\050_RotationClock\obj\Debug\050_RotationClock.g.resources
+C:\Csharp\050_RotationClock\obj\Debug\_050_RotationClock.Properties.Resources.resources
+C:\Csharp\050_RotationClock\obj\Debug\049_RotationClock.csproj.GenerateResource.cache
+C:\Csharp\050_RotationClock\obj\Debug\049_RotationClock.csproj.CoreCompileInputs.cache
+C:\Csharp\050_RotationClock\obj\Debug\050_RotationClock.exe
+C:\Csharp\050_RotationClock\obj\Debug\050_RotationClock.pdb

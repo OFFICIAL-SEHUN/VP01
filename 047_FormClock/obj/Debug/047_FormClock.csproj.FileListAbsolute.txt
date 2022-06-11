@@ -1,0 +1,11 @@
+C:\Csharp\047_FormClock\bin\Debug\047_FormClock.exe.config
+C:\Csharp\047_FormClock\bin\Debug\047_FormClock.exe
+C:\Csharp\047_FormClock\bin\Debug\047_FormClock.pdb
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.csproj.AssemblyReference.cache
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\047_FormClock\obj\Debug\_047_FormClock.Form1.resources
+C:\Csharp\047_FormClock\obj\Debug\_047_FormClock.Properties.Resources.resources
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.csproj.GenerateResource.cache
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.csproj.CoreCompileInputs.cache
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.exe
+C:\Csharp\047_FormClock\obj\Debug\047_FormClock.pdb

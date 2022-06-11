@@ -6,3 +6,11 @@ C:\Csharp\VP01\001_IO\obj\Debug\001_IO.csproj.SuggestedBindingRedirects.cache
 C:\Csharp\VP01\001_IO\obj\Debug\001_IO.csproj.CoreCompileInputs.cache
 C:\Csharp\VP01\001_IO\obj\Debug\001_IO.exe
 C:\Csharp\VP01\001_IO\obj\Debug\001_IO.pdb
+C:\Csharp\001_IO\bin\Debug\001_IO.exe.config
+C:\Csharp\001_IO\bin\Debug\001_IO.exe
+C:\Csharp\001_IO\bin\Debug\001_IO.pdb
+C:\Csharp\001_IO\obj\Debug\001_IO.csproj.AssemblyReference.cache
+C:\Csharp\001_IO\obj\Debug\001_IO.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\001_IO\obj\Debug\001_IO.csproj.CoreCompileInputs.cache
+C:\Csharp\001_IO\obj\Debug\001_IO.exe
+C:\Csharp\001_IO\obj\Debug\001_IO.pdb

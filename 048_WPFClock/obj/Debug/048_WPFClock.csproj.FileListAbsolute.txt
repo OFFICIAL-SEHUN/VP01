@@ -1,0 +1,16 @@
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.csproj.AssemblyReference.cache
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.csproj.SuggestedBindingRedirects.cache
+C:\Csharp\048_WPFClock\obj\Debug\MainWindow.g.cs
+C:\Csharp\048_WPFClock\obj\Debug\App.g.cs
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock_MarkupCompile.cache
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock_MarkupCompile.lref
+C:\Csharp\048_WPFClock\bin\Debug\048_WPFClock.exe.config
+C:\Csharp\048_WPFClock\bin\Debug\048_WPFClock.exe
+C:\Csharp\048_WPFClock\bin\Debug\048_WPFClock.pdb
+C:\Csharp\048_WPFClock\obj\Debug\MainWindow.baml
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.g.resources
+C:\Csharp\048_WPFClock\obj\Debug\_048_WPFClock.Properties.Resources.resources
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.csproj.GenerateResource.cache
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.csproj.CoreCompileInputs.cache
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.exe
+C:\Csharp\048_WPFClock\obj\Debug\048_WPFClock.pdb

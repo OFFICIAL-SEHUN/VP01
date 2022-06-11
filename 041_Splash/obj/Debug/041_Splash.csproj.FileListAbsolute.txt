@@ -14,3 +14,6 @@ C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.GenerateResource.cache
 C:\Csharp\041_Splash\obj\Debug\041_Splash.csproj.CoreCompileInputs.cache
 C:\Csharp\041_Splash\obj\Debug\041_Splash.exe
 C:\Csharp\041_Splash\obj\Debug\041_Splash.pdb
+C:\Csharp\041_Splash\bin\Debug\Colors.mdf
+C:\Csharp\041_Splash\bin\Debug\Colors_log.ldf
+C:\Csharp\041_Splash\obj\Debug\041_Splash_Content.g.cs
